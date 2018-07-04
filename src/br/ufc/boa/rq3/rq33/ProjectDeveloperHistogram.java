@@ -51,9 +51,9 @@ import org.jfree.ui.RectangleEdge;
 import org.jfree.ui.RectangleAnchor;
 import org.jfree.ui.TextAnchor;
 
-import java.awt.geom.Rectangle2D;
+import br.ufc.boa.utils.*;
 
-import br.ufc.boa.rq3.utils.*;
+import java.awt.geom.Rectangle2D;
 
 /**
  * Generates Figure 9a, Section 5.3.3.

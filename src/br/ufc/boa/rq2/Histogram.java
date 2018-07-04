@@ -40,7 +40,7 @@ import org.jfree.data.statistics.SimpleHistogramBin;
 import org.jfree.data.statistics.SimpleHistogramDataset;
 import org.jfree.data.xy.IntervalXYDataset;
 
-import br.ufc.boa.rq3.utils.*;
+import br.ufc.boa.utils.*;
 
 /**
  * Generates Figures 5a-b and 6a-b, Section 5.2.

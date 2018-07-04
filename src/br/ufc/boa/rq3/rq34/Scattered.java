@@ -47,7 +47,7 @@ import org.jfree.ui.RectangleEdge;
 import org.jfree.util.ShapeUtilities;
 
 import br.ufc.boa.features.java.LanguageFeature;
-import br.ufc.boa.rq3.utils.*;
+import br.ufc.boa.utils.*;
 
 /**
  * Generates Figure 14, Section 5.3.4.

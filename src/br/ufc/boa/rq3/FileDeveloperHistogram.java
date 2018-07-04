@@ -51,7 +51,7 @@ import org.jfree.ui.RectangleEdge;
 import org.jfree.ui.RectangleAnchor;
 import org.jfree.ui.TextAnchor;
 
-import br.ufc.boa.rq3.utils.AbstractChart;
+import br.ufc.boa.utils.AbstractChart;
 
 import org.jfree.base.*;
 

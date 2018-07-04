@@ -46,7 +46,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 import org.jfree.text.TextBlock;
 import org.jfree.ui.RectangleEdge;
 
-import br.ufc.boa.rq3.utils.*;
+import br.ufc.boa.utils.*;
 
 /**
  * Generates Figure 12, Section 5.3.2.

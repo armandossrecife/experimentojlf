@@ -45,10 +45,11 @@ import org.jfree.data.general.DatasetUtilities;
 import org.jfree.text.TextBlock;
 import org.jfree.text.TextFragment;
 import org.jfree.ui.RectangleEdge;
+
+import br.ufc.boa.utils.*;
+
 import java.text.DecimalFormat;
 import java.awt.geom.Rectangle2D;
-
-import br.ufc.boa.rq3.utils.*;
 
 /**
  * Generates Figures 10-11, Section 5.3.1.
