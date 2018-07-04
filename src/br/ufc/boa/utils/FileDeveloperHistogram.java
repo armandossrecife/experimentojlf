@@ -1,4 +1,4 @@
-package br.ufc.boa.rq3;
+package br.ufc.boa.utils;
 
 /*
  * Copyright 2013-2014 Iowa State University. All rights reserved.
@@ -50,9 +50,6 @@ import org.jfree.data.statistics.SimpleHistogramDataset;
 import org.jfree.ui.RectangleEdge;
 import org.jfree.ui.RectangleAnchor;
 import org.jfree.ui.TextAnchor;
-
-import br.ufc.boa.utils.AbstractChart;
-
 import org.jfree.base.*;
 
 import java.awt.geom.Rectangle2D;
