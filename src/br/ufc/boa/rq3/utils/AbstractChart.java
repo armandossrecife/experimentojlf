@@ -44,7 +44,7 @@ import org.jfree.ui.RectangleAnchor;
 import org.jfree.ui.RectangleEdge;
 import org.jfree.ui.TextAnchor;
 
-import br.ufc.boa.rq3.features.java.*;
+import br.ufc.boa.features.java.*;
 
 /**
  * Base class for all charts.

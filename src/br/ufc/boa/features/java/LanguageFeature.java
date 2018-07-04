@@ -1,4 +1,4 @@
-package br.ufc.boa.rq3.features.java;
+package br.ufc.boa.features.java;
 
 /*
  * Copyright 2013-2014 Iowa State University. All rights reserved.

@@ -46,8 +46,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 import org.jfree.ui.RectangleEdge;
 import org.jfree.util.ShapeUtilities;
 
-import br.ufc.boa.rq3.features.*;
-import br.ufc.boa.rq3.features.java.LanguageFeature;
+import br.ufc.boa.features.java.LanguageFeature;
 import br.ufc.boa.rq3.utils.*;
 
 /**
